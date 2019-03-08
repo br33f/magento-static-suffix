@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Super_StaticSuffix>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Super_StaticSuffix>
+    </modules>
+</config>
